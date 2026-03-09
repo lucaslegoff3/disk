@@ -1,0 +1,44 @@
+[
+  {
+    "login": "test",
+    "password": "$2a$10$0F4jC2ATHb8f5QSYcgRvveqRqoHVzbRNcDrnMGi/NC9fd.GCc7.vi",
+    "role": "admin",
+    "pendingAdmin": false
+  },
+  {
+    "login": "testuser",
+    "password": "$2a$10$D0ihrT7fhzvWgtrq3qdIPuO4daEI9Yqrchd4QsGV//F0PgpH2KhWO",
+    "role": "editor",
+    "pendingAdmin": false
+  },
+  {
+    "login": "aaa",
+    "password": "$2a$10$gKNpGrZdtWLlLkHzxFOJDeEAHv/7G5sdKA/CBcDLVWiGIkkY4TcVW",
+    "role": "reader",
+    "pendingAdmin": false
+  },
+  {
+    "login": "a",
+    "password": "$2a$10$sh6SJeelw.rcvMT6NVb1QOujiaGZffu0RmRDEc0lNXPHGdyMbp8fO",
+    "role": "reader",
+    "pendingAdmin": false
+  },
+  {
+    "login": "aaaa",
+    "password": "$2a$10$oKsQstK3f6iY6CDLmIZ6Tu5zi3u72i0LibxXbaZvQStxZfZsgvzc.",
+    "role": "editor",
+    "pendingAdmin": false
+  },
+  {
+    "login": "aa",
+    "password": "$2a$10$7obpOYSRUGcSIlF9E1v2cO4BWEmV277yksztozPF8zM8bXs9DiUTW",
+    "role": "reader",
+    "pendingAdmin": false
+  },
+  {
+    "login": "a1",
+    "password": "$2a$10$WWQ.RDWf2McwgQwPWfAfcern9DbHjP8q6Lx1Iw8h9nSWhVKX6GMem",
+    "role": "reader",
+    "pendingAdmin": false
+  }
+]

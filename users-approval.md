@@ -1,0 +1,5 @@
+- Premier utilisateur inscrit = admin automatiquement
+- Les autres utilisateurs peuvent demander le rôle admin, mais seul un admin peut approuver
+- Ajouter une propriété 'pendingAdmin' pour les demandes d'admin
+- Correction du flux d'inscription/connexion pour retour immédiat d'erreur
+- Sauvegarde régulière de l'état du graphe (secteurs, cercles, etc.) dans la base MongoDB pour éviter toute perte
